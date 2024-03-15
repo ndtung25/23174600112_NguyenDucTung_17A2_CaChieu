@@ -1,0 +1,6 @@
+a=int(input("Nhập mã sách:"))
+b=input("Nhập tên sách:")
+c=input("Nhập tác giả:")
+d=int(input("Nhập năm xuất bản:"))
+e=int(input("Nhập số lượng sách:"))
+print(f"ĐHKTKTCN có {e} sách {b} với mã số {a}.Cuốn sách của tác giác {c} được xuất bản vào năm {d}")
