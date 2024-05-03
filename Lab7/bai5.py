@@ -18,6 +18,3 @@ for mat_hang, so_luong in kho.items():
     print(f"Mặt hàng: {mat_hang}, Số lượng: {so_luong}, Đơn giá: {don_gia}, Thành tiền: {thanh_tien}")
 
 print(f"Tổng hóa đơn: {hoa_don}")
-
-for mat_hang, so_luong in kho.items():
-    print(f"Mặt hàng: {mat_hang}, Số lượng còn lại trong kho: {so_luong}")
