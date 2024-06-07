@@ -1,0 +1,15 @@
+Nhận xét và cho điểm bài tập lớn:
+Code: 
++ Vì chỉ đang ghi dữ liệu từng hàng một, không cần thiết phải sử dụng DictWriter
++ Sử dụng một vòng lặp đơn giản để tạo ra các bước di chuyển cho từng con ngựa một cách đồng thời.
++ Thay vì lặp lại quá trình sắp xếp kết quả và ghi vào file CSV, có thể tạo một hàm riêng để thực hiện các bước này. 
+
+Điểm: 2.5
+
+File: Xuất được file csv
+Điểm: 4.0
+
+Có ảnh chạy code
+Điểm: 2.0
+
+Điểm bài tập lớn: 8.5
